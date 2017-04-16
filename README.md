@@ -1,2 +1,2 @@
 # TuxGuitar
-A copy of TuxGuitar originaly created by Casadeus https://sourceforge.net/projects/tuxguitar/
+A copy of TuxGuitar originaly created by Casadesus https://sourceforge.net/projects/tuxguitar/
